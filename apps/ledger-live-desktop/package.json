@@ -278,7 +278,7 @@
     "@types/uuid": "8.3.4",
     "@types/write-file-atomic": "4.0.3",
     "@typescript-eslint/parser": "catalog:",
-    "@vitest/mocker": "4.0.17",
+    "@vitest/mocker": "4.1.11",
     "allure-playwright": "catalog:",
     "autoprefixer": "10.4.22",
     "axios": "catalog:",
