@@ -352,8 +352,8 @@ catalogs:
       specifier: 3.9.0
       version: 3.9.0
     axios:
-      specifier: 1.13.5
-      version: 1.13.5
+      specifier: 1.18.0
+      version: 1.18.0
     babel-jest:
       specifier: 30.5.0
       version: 30.5.0
@@ -1545,7 +1545,7 @@ importers:
         version: 10.4.22(postcss@8.5.6)
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       buffer:
         specifier: 6.0.3
         version: 6.0.3(patch_hash=42321bf7b7c77317e644bb216138271640fb39808e74312037dac216f4b9bc5d)
@@ -2110,7 +2110,7 @@ importers:
         version: 4.2.0(patch_hash=de0963775da5b91d167469189fc2683439a7c96f70ab510ccbcb6d01c11e365c)(@react-native-async-storage/async-storage@2.1.2(react-native@0.81.6(patch_hash=fbb22f6ab81c7336a446f504c4aef2f23fc558838854399c868c5590e29ac9f1)(@babel/core@7.28.5)(@react-native-community/cli@18.0.1(@typescript/typescript6@6.0.2))(@types/react@19.0.14)(react@19.1.4)))
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bignumber.js:
         specifier: 9.1.2
         version: 9.1.2
@@ -5249,7 +5249,7 @@ importers:
         version: 3.9.0(@playwright/test@1.60.0)
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bignumber.js:
         specifier: 9.1.2
         version: 9.1.2
@@ -8847,7 +8847,7 @@ importers:
         version: 7.7.1
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)
@@ -8983,7 +8983,7 @@ importers:
         version: 2.4.4
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bip32:
         specifier: ^4.0.0
         version: 4.0.0
@@ -9241,7 +9241,7 @@ importers:
         version: 7.7.1
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)
@@ -9483,7 +9483,7 @@ importers:
         version: link:../../types-live
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bech32:
         specifier: ^1.1.3
         version: 1.1.4
@@ -9626,7 +9626,7 @@ importers:
         version: 7.7.1
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)
@@ -9869,7 +9869,7 @@ importers:
         version: 7.7.1
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)
@@ -10166,7 +10166,7 @@ importers:
         version: 13.17.1(bignumber.js@9.1.2)(protobufjs@7.3.2)
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bech32:
         specifier: ^1.1.3
         version: 1.1.4
@@ -10491,7 +10491,7 @@ importers:
         version: 7.7.1
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)
@@ -10536,7 +10536,7 @@ importers:
         version: 1.0.4
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bignumber.js:
         specifier: 9.1.2
         version: 9.1.2
@@ -11019,7 +11019,7 @@ importers:
     dependencies:
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       chalk:
         specifier: ^4.1.2
         version: 4.1.2
@@ -12572,7 +12572,7 @@ importers:
         version: 24.12.0
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)(ts-node@10.9.2(@swc/core@1.15.11)(@types/node@24.12.0)(@typescript/typescript6@6.0.2))
@@ -12596,7 +12596,7 @@ importers:
         version: link:../types-live
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       eip55:
         specifier: ^2.1.1
         version: 2.1.1
@@ -12736,7 +12736,7 @@ importers:
         version: link:../env
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       crypto-js:
         specifier: 4.2.0
         version: 4.2.0
@@ -12863,7 +12863,7 @@ importers:
         version: 6.19.0
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       ws:
         specifier: 'catalog:'
         version: 8.18.3
@@ -13427,7 +13427,7 @@ importers:
         version: 3.2.5
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bech32:
         specifier: ^1.1.3
         version: 1.1.4
@@ -13815,7 +13815,7 @@ importers:
         version: link:../types-live
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bignumber.js:
         specifier: 9.1.2
         version: 9.1.2
@@ -13906,7 +13906,7 @@ importers:
     dependencies:
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       invariant:
         specifier: ^2.2.4
         version: 2.2.4
@@ -14124,7 +14124,7 @@ importers:
         version: 24.12.0
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       documentation:
         specifier: 14.0.2
         version: 14.0.2
@@ -14319,7 +14319,7 @@ importers:
         version: link:../../../types-live
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bignumber.js:
         specifier: 9.1.2
         version: 9.1.2
@@ -14515,7 +14515,7 @@ importers:
         version: 24.12.0
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       documentation:
         specifier: 14.0.2
         version: 14.0.2
@@ -14622,7 +14622,7 @@ importers:
         version: 13.17.1(bignumber.js@9.1.2)(protobufjs@7.3.2)
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bignumber.js:
         specifier: 9.1.2
         version: 9.1.2
@@ -15705,7 +15705,7 @@ importers:
         version: link:../../shared/feature-flags
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       ethers:
         specifier: 6.15.0
         version: 6.15.0
@@ -15844,7 +15844,7 @@ importers:
         version: 24.12.0
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       jest:
         specifier: 'catalog:'
         version: 30.5.0(@types/node@24.12.0)
@@ -17391,7 +17391,7 @@ importers:
         version: 4.0.6
       axios:
         specifier: 'catalog:'
-        version: 1.13.5
+        version: 1.18.0
       bip32:
         specifier: ^4.0.0
         version: 4.0.0
@@ -28829,6 +28829,9 @@ packages:
 
   axios@1.16.0:
     resolution: {integrity: sha512-6hp5CwvTPlN2A31g5dxnwAX0orzM7pmCRDLnZSX772mv8WDqICwFjowHuPs04Mc8deIld1+ejhtaMn5vp6b+1w==}
+
+  axios@1.18.0:
+    resolution: {integrity: sha512-E32NzpYKp++W7XRe52rHiXV2ehxmh3wbdgO7MHeFM+vqxLBYHzt0ElkiImtOBxtOmyp0yoC8C6uESVV84Y2/hw==}
 
   axios@1.18.1:
     resolution: {integrity: sha512-3nTvFlvpn9Zu/RkHUqtc7/+al4UpRW5az71ap5zccp6e8RAYEzhMTecX8Dz1wWDYrPpUoB1HAQEGEAEvUr7S9g==}
@@ -48747,7 +48750,7 @@ snapshots:
       uuid: 8.3.2
     optionalDependencies:
       '@multiversx/sdk-bls-wasm': 0.3.5
-      axios: 1.18.1
+      axios: 1.18.0
       bip39: 3.1.0
     transitivePeerDependencies:
       - supports-color
@@ -48771,7 +48774,7 @@ snapshots:
       uuid: 8.3.2
     optionalDependencies:
       '@multiversx/sdk-bls-wasm': 0.3.5
-      axios: 1.18.1
+      axios: 1.18.0
       bip39: 3.1.0
     transitivePeerDependencies:
       - supports-color
@@ -57123,6 +57126,15 @@ snapshots:
       form-data: 4.0.6
       proxy-from-env: 2.1.0
 
+  axios@1.18.0:
+    dependencies:
+      follow-redirects: 1.16.0
+      form-data: 4.0.6
+      https-proxy-agent: 5.0.1
+      proxy-from-env: 2.1.0
+    transitivePeerDependencies:
+      - supports-color
+
   axios@1.18.1:
     dependencies:
       follow-redirects: 1.16.0
@@ -58219,7 +58231,7 @@ snapshots:
       '@scure/bip39': 1.3.0
       '@types/ws': 8.5.10
       asn1.js: 5.4.1
-      axios: 1.18.1
+      axios: 1.18.0
       bn.js: 5.2.1
       elliptic: 6.6.1
       eventsource: 2.0.2
@@ -65262,7 +65274,9 @@ snapshots:
     optionalDependencies:
       metro-transform-worker: 0.81.5
     transitivePeerDependencies:
+      - bufferutil
       - supports-color
+      - utf-8-validate
 
   metro-config@0.83.3(metro-transform-worker@0.83.3):
     dependencies:
