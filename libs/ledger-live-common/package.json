@@ -412,7 +412,7 @@
     "numeral": "^2.0.6",
     "pako": "^2.0.4",
     "prando": "^6.0.1",
-    "qs": "^6.14.1",
+    "qs": "^6.16.0",
     "reselect": "catalog:",
     "rlp": "^3.0.0",
     "rxjs": "catalog:",
